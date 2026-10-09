@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "Note-Jeppe"
+
+
+  page-footer:
+    right: "This page is built with [Quarto](https://quarto.org/)"
+    left: "Copyright &copy; 2026, Jeppe Aarup Andersen"
+
+
+  sidebar:
+    align: center
+    style: docked
+    search: true
+    collapse-level: 1
+    tools:
+      - icon: github
+        menu:
+          - text: Source code
+            href: https://github.com/jeppeaarup/note-jeppe.git
+          - text: Report a bug
+            href: https://github.com/jeppeaarup/note-jeppe/issues
+    contents: 
+      - href: content\index.qmd
+        text: Home
+
+format:
+  html:
+    theme:
+      light: [cosmo]
+      dark: [darkly]
+    toc: true
+    code-copy: true
+    code-overflow: wrap
+
+freeze: auto
+
+

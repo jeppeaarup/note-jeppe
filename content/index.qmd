@@ -1,0 +1,19 @@
+---
+title: "Note-Jeppe"
+---
+
+I code a lot of statistical and machine learning examples in my spare time. Why? Because I find it fun. I enjoy coding, I love data analysis, and I enjoy finding different ways to illustrate concepts. Sometimes I use these examples for teaching, but mostly they get left to rot in folders on my hard drive.
+
+But no more! I've created this website as a home for these examples — a place where they might be useful instead of forgotten. Think of this as my public notebook: a collection of explanations, visualizations, and code snippets. Everything here is written primarily for my own fun, so expect a mix of polished tutorials and rough-around-the-edges experiments.
+
+
+::: {.callout-note}
+## Why is this website called "Note-Jeppe"?
+
+First off, naming websites is hard — don't @ me.
+
+During my bachelor's, I shared my course notes with a few students from the year below. Just a Google Drive link with notes from all my courses. That link spread, and apparently some of my fellow students now know me as "Note-Jeppe". It's weird, it's funny and it has gotten me more than one free beer at our friday bar. 
+
+So when I needed a name for this website, the choice was obvious. If I'm to be given a slightly dumb nickname, might as well lean into it.
+
+:::
